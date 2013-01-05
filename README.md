@@ -1,6 +1,6 @@
 Disclaimer
 ==
-Incomplete and basic.
+![alt text](http://serve.eriknomitch.com/images/works-on-my-machine.jpg "Works on My Machine")
 
 Usage
 ==
